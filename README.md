@@ -1,4 +1,5 @@
-[![HitCount](https://hits.dwyl.com/lyella/;yella.svg?style=flat-square)](http://hits.dwyl.com/lyella/;yella)
+  [![HitCount](https://hits.dwyl.com/lyella/lyella.svg?style=flat-square)](http://hits.dwyl.com/lyella/lyella)
+
 
 <!--
 **lyella/lyella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
