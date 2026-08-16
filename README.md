@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" width="45" alt="Torchic" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" width="35" alt="Torchic" />
   <br/>
   <i>sometimes i run, sometimes i hide, sometimes i debug</i>
 </div>
@@ -8,8 +8,8 @@
 
 ⚡ **Class** • Frontend Developer  
 💻 **Moveset** • HTML • CSS • JavaScript • React • WordPress  
-📍 **Region** • PH 🇵🇭 
-👟 **Training** • Fun runs  
+📍 **Region** • PH
+👟 **Training** • Fun runs • Pickleball
 🎒 **Inventory** • Paper • Pen • Licorice Candies • Coke Zero • iPhone • e-reader • PS Vita
 
 <br/>
