@@ -6,10 +6,10 @@
 
 <br/>
 
-⚡ **Class** • Frontend Developer  
-💻 **Moveset** • HTML • CSS • JavaScript • React • WordPress  
-📍 **Region** • PH
-👟 **Training** • Fun runs • Pickleball
+⚡ **Class** • Frontend Developer  <br/>
+💻 **Moveset** • HTML • CSS • JavaScript • TypeScript • Bootstrap • Tailwind • PUG • React • Vue • GSAP • .NET • WordPress • Umbraco  <br/>
+📍 **Region** • PH<br/>
+👟 **Training** • Fun runs • Pickleball<br/>
 🎒 **Inventory** • Paper • Pen • Licorice Candies • Coke Zero • iPhone • e-reader • PS Vita
 
 <br/>
